@@ -42,6 +42,16 @@ Once the state graph is fully enriched, it feeds into a centralized dispatch eng
 * **EV Flex-Window Slack:** Dynamically defers EV charging based on a **Longest Slack First (LSF)** queuing model.
 * **Algorithmic Load Shedding:** Triggers automated shedding of non-critical household loads based on user-defined priority queues to guarantee microgrid stability.
 
+
+## 📸 Application Screenshots
+
+<details>
+<summary>Click here to view all application screenshots</summary>
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/9e2ad435-6b52-45fb-998b-f3f216c3c643" />
+<img width="1914" height="908" alt="image" src="https://github.com/user-attachments/assets/83a5322c-020c-4d6e-84f9-2a4add8824a4" />
+
+</details>
+
 ## 🎙️ Indic Language Accessibility Layer (Sarvam AI) 🏆
 
 
