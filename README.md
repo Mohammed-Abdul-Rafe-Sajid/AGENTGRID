@@ -47,8 +47,9 @@ Once the state graph is fully enriched, it feeds into a centralized dispatch eng
 
 <details>
 <summary>Click here to view all application screenshots</summary>
-<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/9e2ad435-6b52-45fb-998b-f3f216c3c643" />
-<img width="1914" height="908" alt="image" src="https://github.com/user-attachments/assets/83a5322c-020c-4d6e-84f9-2a4add8824a4" />
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/26a17350-9437-4780-a4f6-920fec65b763" />
+<img width="1901" height="905" alt="{C782A0C7-8230-4E1A-88FD-FC89B188A102}" src="https://github.com/user-attachments/assets/7cce6ac8-d815-4c4a-96ca-67ee36bad172" />
+
 
 </details>
 
